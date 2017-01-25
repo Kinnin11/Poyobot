@@ -1,0 +1,292 @@
+03-08-16 16:31:46: Message: PRIVMSG #poyobot :kinnin11 -> i'm already sending you poyo in chat (> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 03-08-16 16:31:44
+03-08-16 16:37:24: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 03-08-16 16:37:22
+03-08-16 16:37:44: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 03-08-16 16:37:43
+03-08-16 16:51:03: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 0| LastMessageSent(before edit): 03-08-16 16:51:00
+03-08-16 16:51:05: Message: USER poyobot| Queue size: 0| LastMessageSent(before edit): 03-08-16 16:51:03
+03-08-16 16:51:06: Message: NICK poyobot| Queue size: 0| LastMessageSent(before edit): 03-08-16 16:51:05
+03-08-16 16:51:09: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 03-08-16 16:51:06
+03-08-16 16:51:10: Message: JOIN #poyobot| Queue size: 0| LastMessageSent(before edit): 03-08-16 16:51:09
+03-08-16 16:51:38: Message: PRIVMSG #poyobot :kinnin11 -> i'm already sending you poyo in chat (> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 03-08-16 16:51:10
+03-08-16 17:04:17: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 1| LastMessageSent(before edit): 03-08-16 17:04:16
+03-08-16 17:04:19: Message: USER poyobot| Queue size: 0| LastMessageSent(before edit): 03-08-16 17:04:17
+03-08-16 17:08:11: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 03-08-16 17:08:09
+03-08-16 17:08:12: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 03-08-16 17:08:11
+03-08-16 17:08:14: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 03-08-16 17:08:12
+03-08-16 17:08:15: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 03-08-16 17:08:14
+03-08-16 17:08:25: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 03-08-16 17:08:23
+03-08-16 17:08:26: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 03-08-16 17:08:25
+03-08-16 17:08:28: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 03-08-16 17:08:26
+03-08-16 17:08:29: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 03-08-16 17:08:28
+03-08-16 17:09:07: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 03-08-16 17:09:03
+03-08-16 17:09:08: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 03-08-16 17:09:07
+03-08-16 17:09:10: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 03-08-16 17:09:08
+03-08-16 17:09:11: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 03-08-16 17:09:10
+03-08-16 17:09:46: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 03-08-16 17:09:26
+03-08-16 17:09:47: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 03-08-16 17:09:46
+03-08-16 17:09:49: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 03-08-16 17:09:47
+03-08-16 17:09:50: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 03-08-16 17:09:49
+03-08-16 17:10:13: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 03-08-16 17:09:57
+03-08-16 17:10:17: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 03-08-16 17:10:14
+03-08-16 17:10:37: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 03-08-16 17:10:32
+03-08-16 17:10:39: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 03-08-16 17:10:37
+03-08-16 17:10:41: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 03-08-16 17:10:39
+03-08-16 17:14:17: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 1| LastMessageSent(before edit): 03-08-16 17:14:12
+03-08-16 17:14:24: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 03-08-16 17:14:17
+03-08-16 17:14:25: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 03-08-16 17:14:24
+03-08-16 17:14:27: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 03-08-16 17:14:25
+03-08-16 17:14:28: Message: JOIN #poyobot| Queue size: 0| LastMessageSent(before edit): 03-08-16 17:14:27
+03-08-16 17:14:30: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:14:28
+03-08-16 17:14:31: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:14:30
+03-08-16 17:14:33: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:14:31
+03-08-16 17:14:34: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:14:33
+03-08-16 17:14:36: Message: PRIVMSG #poyobot :kinnin11 -> i'm already sending you poyo in chat (> ^ - ^)> POYO <(^ - ^ <)| Queue size: 4| LastMessageSent(before edit): 03-08-16 17:14:34
+03-08-16 17:14:37: Message: PRIVMSG #poyobot :kinnin11 -> i'm already sending you poyo in chat (> ^ - ^)> POYO <(^ - ^ <)| Queue size: 6| LastMessageSent(before edit): 03-08-16 17:14:36
+03-08-16 17:14:39: Message: PRIVMSG #poyobot :kinnin11 -> i'm already sending you poyo in chat (> ^ - ^)> POYO <(^ - ^ <)| Queue size: 5| LastMessageSent(before edit): 03-08-16 17:14:37
+03-08-16 17:14:40: Message: PRIVMSG #poyobot :kinnin11 -> i'm already sending you poyo in chat (> ^ - ^)> POYO <(^ - ^ <)| Queue size: 4| LastMessageSent(before edit): 03-08-16 17:14:39
+03-08-16 17:14:42: Message: PRIVMSG #poyobot :kinnin11 -> i'm already sending you poyo in chat (> ^ - ^)> POYO <(^ - ^ <)| Queue size: 3| LastMessageSent(before edit): 03-08-16 17:14:40
+03-08-16 17:14:43: Message: PRIVMSG #poyobot :kinnin11 -> i'm already sending you poyo in chat (> ^ - ^)> POYO <(^ - ^ <)| Queue size: 2| LastMessageSent(before edit): 03-08-16 17:14:42
+03-08-16 17:14:45: Message: PRIVMSG #poyobot :kinnin11 -> i'm already sending you poyo in chat (> ^ - ^)> POYO <(^ - ^ <)| Queue size: 1| LastMessageSent(before edit): 03-08-16 17:14:43
+03-08-16 17:14:46: Message: PRIVMSG #poyobot :kinnin11 -> i'm already sending you poyo in chat (> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 03-08-16 17:14:45
+03-08-16 17:14:48: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:14:46
+03-08-16 17:14:50: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:14:48
+03-08-16 17:14:52: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:14:50
+03-08-16 17:14:53: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:14:52
+03-08-16 17:14:55: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:14:53
+03-08-16 17:14:56: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:14:55
+03-08-16 17:15:47: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 03-08-16 17:15:45
+03-08-16 17:15:48: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 03-08-16 17:15:47
+03-08-16 17:15:50: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 03-08-16 17:15:48
+03-08-16 17:15:51: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 03-08-16 17:15:50
+03-08-16 17:15:53: Message: JOIN #poyobot| Queue size: 0| LastMessageSent(before edit): 03-08-16 17:15:51
+03-08-16 17:15:54: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:15:53
+03-08-16 17:15:56: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:15:54
+03-08-16 17:15:57: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:15:56
+03-08-16 17:15:59: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:15:57
+03-08-16 17:16:00: Message: PRIVMSG #poyobot :kinnin11 -> i'm already sending you poyo in chat (> ^ - ^)> POYO <(^ - ^ <)| Queue size: 4| LastMessageSent(before edit): 03-08-16 17:15:59
+03-08-16 17:16:02: Message: PRIVMSG #poyobot :kinnin11 -> i'm already sending you poyo in chat (> ^ - ^)> POYO <(^ - ^ <)| Queue size: 3| LastMessageSent(before edit): 03-08-16 17:16:00
+03-08-16 17:16:03: Message: PRIVMSG #poyobot :kinnin11 -> i'm already sending you poyo in chat (> ^ - ^)> POYO <(^ - ^ <)| Queue size: 2| LastMessageSent(before edit): 03-08-16 17:16:02
+03-08-16 17:16:05: Message: PRIVMSG #poyobot :kinnin11 -> i'm already sending you poyo in chat (> ^ - ^)> POYO <(^ - ^ <)| Queue size: 1| LastMessageSent(before edit): 03-08-16 17:16:03
+03-08-16 17:16:06: Message: PRIVMSG #poyobot :kinnin11 -> i'm already sending you poyo in chat (> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:05
+03-08-16 17:16:08: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:06
+03-08-16 17:16:09: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:08
+03-08-16 17:16:11: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:09
+03-08-16 17:16:12: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:11
+03-08-16 17:16:14: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:12
+03-08-16 17:16:15: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:14
+03-08-16 17:16:17: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:15
+03-08-16 17:16:18: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:17
+03-08-16 17:16:20: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:18
+03-08-16 17:16:21: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:20
+03-08-16 17:16:23: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:21
+03-08-16 17:16:24: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:23
+03-08-16 17:16:26: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:24
+03-08-16 17:16:27: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:26
+03-08-16 17:16:29: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:27
+03-08-16 17:16:30: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:29
+03-08-16 17:16:32: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:16:30
+03-08-16 17:17:23: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 03-08-16 17:17:18
+03-08-16 17:17:26: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 03-08-16 17:17:23
+03-08-16 17:17:29: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 03-08-16 17:17:26
+03-08-16 17:17:31: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 03-08-16 17:17:29
+03-08-16 17:17:34: Message: JOIN #poyobot| Queue size: 0| LastMessageSent(before edit): 03-08-16 17:17:31
+03-08-16 17:17:38: Message: | Queue size: 0| LastMessageSent(before edit): 03-08-16 17:17:34
+03-08-16 17:18:24: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 03-08-16 17:18:23
+03-08-16 17:18:26: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 03-08-16 17:18:24
+03-08-16 17:18:27: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 03-08-16 17:18:26
+03-08-16 17:18:29: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 03-08-16 17:18:27
+03-08-16 17:18:30: Message: JOIN #poyobot| Queue size: 0| LastMessageSent(before edit): 03-08-16 17:18:29
+03-08-16 17:18:35: Message: PRIVMSG #poyobot :kinnin11 -> i'm already sending you poyo in chat (> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 03-08-16 17:18:30
+16-08-16 0:09:06: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 16-08-16 00:09:05
+16-08-16 0:09:08: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 16-08-16 00:09:06
+16-08-16 0:09:09: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 16-08-16 00:09:08
+16-08-16 0:09:11: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 16-08-16 00:09:09
+16-08-16 0:09:45: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 16-08-16 00:09:44
+16-08-16 0:09:47: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 16-08-16 00:09:45
+16-08-16 0:09:48: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 16-08-16 00:09:47
+16-08-16 0:09:50: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 16-08-16 00:09:48
+16-08-16 0:09:51: Message: JOIN #poyobot| Queue size: 0| LastMessageSent(before edit): 16-08-16 00:09:50
+16-08-16 0:12:03: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 16-08-16 00:12:02
+16-08-16 0:12:05: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 16-08-16 00:12:03
+16-08-16 0:12:06: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 16-08-16 00:12:05
+16-08-16 0:12:08: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 16-08-16 00:12:06
+16-08-16 0:12:22: Message: JOIN #poyobot| Queue size: 0| LastMessageSent(before edit): 16-08-16 00:12:08
+16-08-16 0:13:07: Message: JOIN #ahbeef| Queue size: 0| LastMessageSent(before edit): 16-08-16 00:12:22
+16-08-16 0:13:15: Message: JOIN #ahbeef| Queue size: 0| LastMessageSent(before edit): 16-08-16 00:13:07
+16-08-16 0:13:27: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 16-08-16 00:13:26
+16-08-16 0:13:29: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 16-08-16 00:13:27
+16-08-16 0:14:11: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 16-08-16 00:14:09
+16-08-16 0:14:12: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 16-08-16 00:14:11
+16-08-16 0:14:14: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 16-08-16 00:14:12
+16-08-16 0:14:15: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 16-08-16 00:14:14
+16-08-16 0:14:26: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 16-08-16 00:14:25
+16-08-16 0:14:28: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 16-08-16 00:14:26
+16-08-16 0:14:29: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 16-08-16 00:14:28
+16-08-16 0:14:31: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 16-08-16 00:14:29
+16-08-16 0:14:34: Message: JOIN #poyobot| Queue size: 0| LastMessageSent(before edit): 16-08-16 00:14:31
+21-08-16 21:08:46: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 21-8-2016 21:08:44
+21-08-16 21:08:47: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 21-8-2016 21:08:46
+21-08-16 21:08:49: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 21-8-2016 21:08:47
+21-08-16 21:08:50: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:08:49
+21-08-16 21:08:52: Message: JOIN #poyobot| Queue size: 1| LastMessageSent(before edit): 21-8-2016 21:08:50
+21-08-16 21:08:53: Message: JOIN #kirbyspeedruns| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:08:52
+21-08-16 21:09:00: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:08:53
+21-08-16 21:10:41: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:09:00
+21-08-16 21:12:35: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:10:41
+21-08-16 21:13:00: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:12:35
+21-08-16 21:14:07: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:13:00
+21-08-16 21:14:30: Message: PRIVMSG #kirbyspeedruns :<<<<|=Q^( `´Q)^ FIGHT ME| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:14:07
+21-08-16 21:15:18: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:14:30
+21-08-16 21:16:25: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:15:18
+21-08-16 21:16:42: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:16:25
+21-08-16 21:17:23: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:16:42
+21-08-16 21:20:11: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:17:23
+21-08-16 21:20:48: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:20:11
+21-08-16 21:21:26: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:20:48
+21-08-16 21:25:23: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:21:26
+21-08-16 21:25:35: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:25:23
+21-08-16 21:28:26: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:25:35
+21-08-16 21:28:32: Message: PRIVMSG #kirbyspeedruns :<<<<|=Q^( `´Q)^ FIGHT ME| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:28:26
+21-08-16 21:30:04: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:28:32
+21-08-16 21:32:50: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:30:04
+21-08-16 21:34:26: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:32:50
+21-08-16 21:35:06: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:34:26
+21-08-16 21:39:17: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:35:06
+21-08-16 21:39:25: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:39:17
+21-08-16 21:43:57: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:39:25
+21-08-16 21:45:11: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:43:57
+21-08-16 21:45:15: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:45:11
+21-08-16 21:45:20: Message: PRIVMSG #kirbyspeedruns :<<<<|=Q^( `´Q)^ FIGHT ME| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:45:15
+21-08-16 21:48:30: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:45:20
+21-08-16 21:49:50: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:48:30
+21-08-16 21:52:46: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:49:50
+21-08-16 21:52:48: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:52:46
+21-08-16 21:57:20: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:52:48
+21-08-16 21:57:48: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:57:20
+21-08-16 22:01:54: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 21:57:48
+21-08-16 22:03:19: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:01:54
+21-08-16 22:06:17: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:03:19
+21-08-16 22:09:58: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:06:17
+21-08-16 22:10:50: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:09:58
+21-08-16 22:12:39: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:10:50
+21-08-16 22:15:22: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:12:39
+21-08-16 22:18:53: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:15:22
+21-08-16 22:18:59: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:18:53
+21-08-16 22:20:14: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:18:59
+21-08-16 22:22:21: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:20:14
+21-08-16 22:23:36: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:22:21
+21-08-16 22:24:25: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:23:36
+21-08-16 22:27:58: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:24:25
+21-08-16 22:28:34: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:27:58
+21-08-16 22:32:39: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:28:34
+21-08-16 22:33:11: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:32:39
+21-08-16 22:35:49: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:33:11
+21-08-16 22:37:01: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:35:49
+21-08-16 22:41:14: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:37:01
+21-08-16 22:42:16: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:41:14
+21-08-16 22:46:01: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:42:16
+21-08-16 22:48:02: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:46:01
+21-08-16 22:50:22: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:48:02
+21-08-16 22:51:27: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:50:22
+21-08-16 22:52:16: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:51:27
+21-08-16 22:54:46: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:52:16
+21-08-16 22:56:28: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> PUYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:54:46
+21-08-16 22:58:23: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:56:28
+21-08-16 22:58:24: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 6| LastMessageSent(before edit): 21-8-2016 22:58:23
+21-08-16 22:58:26: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 8| LastMessageSent(before edit): 21-8-2016 22:58:24
+21-08-16 22:58:27: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 7| LastMessageSent(before edit): 21-8-2016 22:58:26
+21-08-16 22:58:29: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 6| LastMessageSent(before edit): 21-8-2016 22:58:27
+21-08-16 22:58:30: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 5| LastMessageSent(before edit): 21-8-2016 22:58:29
+21-08-16 22:58:32: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 4| LastMessageSent(before edit): 21-8-2016 22:58:30
+21-08-16 22:58:33: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 3| LastMessageSent(before edit): 21-8-2016 22:58:32
+21-08-16 22:58:35: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 2| LastMessageSent(before edit): 21-8-2016 22:58:33
+21-08-16 22:58:36: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 1| LastMessageSent(before edit): 21-8-2016 22:58:35
+21-08-16 22:58:38: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:58:36
+21-08-16 22:58:58: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:58:38
+21-08-16 22:59:20: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:58:58
+21-08-16 23:00:28: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 22:59:20
+21-08-16 23:03:41: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:00:28
+21-08-16 23:05:35: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:03:41
+21-08-16 23:08:10: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:05:35
+21-08-16 23:12:11: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:08:10
+21-08-16 23:12:14: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:12:11
+21-08-16 23:15:43: Message: PRIVMSG #kirbyspeedruns :<<<<|=Q^( `´Q)^ FIGHT ME| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:12:14
+21-08-16 23:15:45: Message: PRIVMSG #kirbyspeedruns :<<<<|=Q^( `´Q)^ FIGHT ME| Queue size: 7| LastMessageSent(before edit): 21-8-2016 23:15:43
+21-08-16 23:15:46: Message: PRIVMSG #kirbyspeedruns :<<<<|=Q^( `´Q)^ FIGHT ME| Queue size: 8| LastMessageSent(before edit): 21-8-2016 23:15:45
+21-08-16 23:15:48: Message: PRIVMSG #kirbyspeedruns :<<<<|=Q^( `´Q)^ FIGHT ME| Queue size: 7| LastMessageSent(before edit): 21-8-2016 23:15:46
+21-08-16 23:15:49: Message: PRIVMSG #kirbyspeedruns :<<<<|=Q^( `´Q)^ FIGHT ME| Queue size: 6| LastMessageSent(before edit): 21-8-2016 23:15:48
+21-08-16 23:15:51: Message: PRIVMSG #kirbyspeedruns :<<<<|=Q^( `´Q)^ FIGHT ME| Queue size: 5| LastMessageSent(before edit): 21-8-2016 23:15:49
+21-08-16 23:15:52: Message: PRIVMSG #kirbyspeedruns :<<<<|=Q^( `´Q)^ FIGHT ME| Queue size: 4| LastMessageSent(before edit): 21-8-2016 23:15:51
+21-08-16 23:15:54: Message: PRIVMSG #kirbyspeedruns :<<<<|=Q^( `´Q)^ FIGHT ME| Queue size: 3| LastMessageSent(before edit): 21-8-2016 23:15:52
+21-08-16 23:15:55: Message: PRIVMSG #kirbyspeedruns :<<<<|=Q^( `´Q)^ FIGHT ME| Queue size: 2| LastMessageSent(before edit): 21-8-2016 23:15:54
+21-08-16 23:15:57: Message: PRIVMSG #kirbyspeedruns :<<<<|=Q^( `´Q)^ FIGHT ME| Queue size: 1| LastMessageSent(before edit): 21-8-2016 23:15:55
+21-08-16 23:15:58: Message: PRIVMSG #kirbyspeedruns :<<<<|=Q^( `´Q)^ FIGHT ME| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:15:57
+21-08-16 23:16:50: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:15:58
+21-08-16 23:17:51: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:16:50
+21-08-16 23:21:15: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:17:51
+21-08-16 23:24:27: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:21:15
+21-08-16 23:25:20: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:24:27
+21-08-16 23:27:06: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:25:20
+21-08-16 23:30:17: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:27:06
+21-08-16 23:32:52: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:30:17
+21-08-16 23:33:44: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:32:52
+21-08-16 23:33:46: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 2| LastMessageSent(before edit): 21-8-2016 23:33:44
+21-08-16 23:33:47: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 1| LastMessageSent(before edit): 21-8-2016 23:33:46
+21-08-16 23:33:49: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:33:47
+21-08-16 23:34:21: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:33:49
+21-08-16 23:38:39: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:34:21
+21-08-16 23:39:08: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:38:39
+21-08-16 23:43:03: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:39:08
+21-08-16 23:46:01: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:43:03
+21-08-16 23:47:42: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:46:01
+21-08-16 23:50:08: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:47:42
+21-08-16 23:50:36: Message: PRIVMSG #kirbyspeedruns :(> ^ - ^)> POYO <(^ - ^ <)| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:50:08
+21-08-16 23:51:58: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:50:36
+22-08-16 3:14:28: Message: PART #kirbyspeedruns| Queue size: 0| LastMessageSent(before edit): 21-8-2016 23:51:58
+18-09-16 21:35:05: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 18-9-2016 21:35:03
+18-09-16 21:35:06: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 18-9-2016 21:35:05
+18-09-16 21:35:08: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 18-9-2016 21:35:06
+18-09-16 21:35:09: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 18-9-2016 21:35:08
+18-09-16 21:35:11: Message: JOIN #poyobot| Queue size: 0| LastMessageSent(before edit): 18-9-2016 21:35:09
+18-09-16 21:35:12: Message: JOIN #kirbyspeedruns| Queue size: 0| LastMessageSent(before edit): 18-9-2016 21:35:11
+27-09-16 10:48:22: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 27-9-2016 10:48:20
+27-09-16 10:48:24: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 27-9-2016 10:48:22
+27-09-16 10:48:25: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 27-9-2016 10:48:24
+27-09-16 10:48:29: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 27-9-2016 10:48:25
+27-09-16 10:48:32: Message: JOIN #kirbyspeedruns| Queue size: 0| LastMessageSent(before edit): 27-9-2016 10:48:30
+27-09-16 10:48:37: Message: JOIN #poyobot| Queue size: 0| LastMessageSent(before edit): 27-9-2016 10:48:33
+27-09-16 10:51:51: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 27-9-2016 10:51:49
+27-09-16 10:51:52: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 27-9-2016 10:51:51
+27-09-16 10:51:54: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 27-9-2016 10:51:52
+27-09-16 10:51:55: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 27-9-2016 10:51:54
+27-09-16 10:51:57: Message: JOIN #poyobot| Queue size: 1| LastMessageSent(before edit): 27-9-2016 10:51:55
+27-09-16 10:51:58: Message: JOIN #kirbyspeedruns| Queue size: 0| LastMessageSent(before edit): 27-9-2016 10:51:57
+27-09-16 10:59:18: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 27-9-2016 10:59:15
+27-09-16 10:59:19: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 27-9-2016 10:59:18
+27-09-16 10:59:21: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 27-9-2016 10:59:19
+27-09-16 10:59:22: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 27-9-2016 10:59:21
+27-09-16 10:59:24: Message: JOIN #poyobot| Queue size: 2| LastMessageSent(before edit): 27-9-2016 10:59:22
+27-09-16 10:59:32: Message: JOIN #kirbyspeedruns| Queue size: 1| LastMessageSent(before edit): 27-9-2016 10:59:24
+27-09-16 10:59:33: Message: JOIN #kinnin11| Queue size: 0| LastMessageSent(before edit): 27-9-2016 10:59:32
+27-09-16 11:00:36: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 27-9-2016 11:00:34
+27-09-16 11:00:37: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 27-9-2016 11:00:36
+27-09-16 11:00:39: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 27-9-2016 11:00:37
+27-09-16 11:00:40: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 27-9-2016 11:00:39
+27-09-16 11:00:42: Message: JOIN #poyobot| Queue size: 2| LastMessageSent(before edit): 27-9-2016 11:00:40
+27-09-16 11:00:43: Message: JOIN #kirbyspeedruns| Queue size: 1| LastMessageSent(before edit): 27-9-2016 11:00:42
+27-09-16 11:01:03: Message: JOIN #kinnin11| Queue size: 0| LastMessageSent(before edit): 27-9-2016 11:00:43
+27-09-16 11:01:23: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 27-9-2016 11:01:22
+27-09-16 11:01:25: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 27-9-2016 11:01:23
+27-09-16 11:01:26: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 27-9-2016 11:01:25
+27-09-16 11:01:28: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 27-9-2016 11:01:26
+27-09-16 11:01:29: Message: JOIN #poyobot| Queue size: 2| LastMessageSent(before edit): 27-9-2016 11:01:28
+27-09-16 11:01:31: Message: JOIN #kirbyspeedruns| Queue size: 1| LastMessageSent(before edit): 27-9-2016 11:01:29
+27-09-16 11:01:36: Message: JOIN #kinnin11| Queue size: 0| LastMessageSent(before edit): 27-9-2016 11:01:31
+27-09-16 11:05:47: Message: PONG :tmi.twitch.tv| Queue size: 0| LastMessageSent(before edit): 27-9-2016 11:01:36
+27-09-16 11:07:07: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 27-9-2016 11:07:06
+27-09-16 11:07:09: Message: USER poyobot| Queue size: 2| LastMessageSent(before edit): 27-9-2016 11:07:07
+27-09-16 11:07:10: Message: NICK poyobot| Queue size: 1| LastMessageSent(before edit): 27-9-2016 11:07:09
+27-09-16 11:07:12: Message: CAP REQ  :twitch.tv/membership| Queue size: 0| LastMessageSent(before edit): 27-9-2016 11:07:10
+27-09-16 11:07:13: Message: JOIN #poyobot| Queue size: 2| LastMessageSent(before edit): 27-9-2016 11:07:12
+27-09-16 11:07:15: Message: JOIN #kirbyspeedruns| Queue size: 1| LastMessageSent(before edit): 27-9-2016 11:07:13
+27-09-16 11:07:19: Message: JOIN #kinnin11| Queue size: 0| LastMessageSent(before edit): 27-9-2016 11:07:15
+27-09-16 11:09:32: Message: PASS oauth:fqvokjqzezh8nl9b03334tf13gp6lm| Queue size: 3| LastMessageSent(before edit): 27-9-2016 11:09:31

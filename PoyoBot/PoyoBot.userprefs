@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="PoyoBot\PoyoBot.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PoyoBot\IRCHandling.cs">
+    <Files>
+      <File FileName="PoyoBot\IRCHandling.cs" Line="16" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

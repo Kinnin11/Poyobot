@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PoyoBot</name>
+    </assembly>
+    <members>
+        <member name="T:PoyoBot.CommandLevels">
+            <summary>
+            Only really used for commands, the level in which the command can be triggered
+            </summary>
+        </member>
+        <member name="T:PoyoBot.Command">
+            <summary>
+            Abstract class that has the framework to let new commands be handled
+            </summary>
+        </member>
+        <member name="F:PoyoBot.Command.commandLevel">
+            <summary>
+            The userlevel needed to use the command
+            </summary>
+        </member>
+        <member name="F:PoyoBot.Command.streamCooldowns">
+            <summary>
+            The list of channel that have used the command and what the cooldown is for that channel
+            </summary>
+        </member>
+        <member name="M:PoyoBot.Command.#ctor(System.String,System.String,System.Int32,PoyoBot.CommandLevels)">
+            <summary>
+            
+            </summary>
+            <param name="commandText">The command that will be reacted to, must contain '!' to work</param>
+            <param name="commandResponse">This is only if you want your command to have a fixed response</param>
+            <param name="resCooldown">The cooldown of use in seconds</param>
+            <param name="level">The userlevel needed to use the command</param>
+        </member>
+        <member name="M:PoyoBot.Command.CheckLevel(System.String,System.String,PoyoBot.IRCHandling)">
+            <summary>
+            Checks if the current user is authorized to use this command
+            </summary>
+            <param name="user">The user that tries to use the command</param>
+            <param name="stream">The channel this command is used in</param>
+            <param name="bot">The base handler so modlists can be accessed(modlists is TODO)</param>
+            <returns>Returns a boolean, if true the user may use the command</returns>
+        </member>
+        <member name="M:PoyoBot.Command.CheckCooldown(System.String,System.String)">
+            <summary>
+            Checks for the channel the command was in if the cooldown has elapsed
+            </summary>
+            <param name="currentStream">The stream the command was used in</param>
+            <returns>Returns a boolean, if true the cooldown has elapsed and the command will trigger</returns>
+        </member>
+        <member name="M:PoyoBot.Command.Handle(System.String,System.String,System.String,System.String,PoyoBot.IRCHandling)">
+            <summary>
+            Abstrac method that 
+            </summary>
+            <param name="user"></param>
+            <param name="stream"></param>
+            <param name="command"></param>
+            <param name="data"></param>
+            <param name="bot"></param>
+        </member>
+        <member name="T:PoyoBot.Response">
+            <summary>
+            Object used to let poyobot respond to certain text in IRC channels
+            </summary>
+        </member>
+        <member name="M:PoyoBot.Response.#ctor(System.String,System.String,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="respondTo">The text in the channel the response will trigger on</param>
+            <param name="respondWith">The text the bot will send to the channel when triggered</param>
+            <param name="resCooldown">The amount of time inbetween the bot being able to trigger</param>
+        </member>
+        <member name="M:PoyoBot.Response.CheckCooldown(System.String)">
+            <summary>
+            Checks if cooldown has elapsed for the current channel.
+            </summary>
+            <param name="currentStream">The channel that wants to try and trigger the response.</param>
+            <returns>a boolean that's true if the cooldown has elapsed</returns>
+        </member>
+        <member name="M:PoyoBot.Response.CanRespond(System.String,System.String,System.String,PoyoBot.IRCHandling)">
+            <summary>
+            First checks if the text can be responded upon, then sends the data into the channel.
+            </summary>
+            <param name="user">The user that put the message on the channel</param>
+            <param name="stream">The channel the message is on</param>
+            <param name="data">What the message contains</param>
+            <param name="bot">the base handler so the response can send it to the proper channel</param>
+            <returns>a boolean that's true when the response has been triggered</returns>
+        </member>
+    </members>
+</doc>

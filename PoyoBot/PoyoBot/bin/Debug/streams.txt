@@ -1,0 +1,2 @@
+kirbyspeedruns;5;False
+kinnin11;5;False

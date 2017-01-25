@@ -1,0 +1,8 @@
+C:\Users\Bart\Dropbox\C# project\PoyoBot\PoyoBot\obj\x86\Release\PoyoBot.csprojResolveAssemblyReference.cache
+C:\Users\Bart\Dropbox\C# project\PoyoBot\PoyoBot.exe.config
+C:\Users\Bart\Dropbox\C# project\PoyoBot\PoyoBot\bin\Release\PoyoBot.exe.config
+C:\Users\Bart\Dropbox\C# project\PoyoBot\PoyoBot\bin\Debug\PoyoBot.exe.config
+C:\Users\Bart\Dropbox\C# project\PoyoBot\PoyoBot\bin\Debug\Poyobot.XML\PoyoBot.exe.config
+C:\Users\Bart\Dropbox\C# project\PoyoBot\PoyoBot\bin\Debug\PoyoBot.XML
+C:\Users\Bart\Documents\Visual Studio 2010\Projects\PoyoBot\PoyoBot\bin\Debug\PoyoBot.exe.config
+C:\Users\Bart\Documents\Visual Studio 2010\Projects\PoyoBot\PoyoBot\bin\Debug\PoyoBot.XML

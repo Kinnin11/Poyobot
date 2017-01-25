@@ -1,0 +1,16 @@
+C:\Users\Bart\AppData\Local\Temporary Projects\PoyoBot\bin\Debug\PoyoBot.exe
+C:\Users\Bart\AppData\Local\Temporary Projects\PoyoBot\bin\Debug\PoyoBot.pdb
+C:\Users\Bart\AppData\Local\Temporary Projects\PoyoBot\obj\x86\Debug\PoyoBot.exe
+C:\Users\Bart\AppData\Local\Temporary Projects\PoyoBot\obj\x86\Debug\PoyoBot.pdb
+C:\Users\Bart\documents\visual studio 2010\Projects\PoyoBot\PoyoBot\obj\x86\Debug\PoyoBot.exe
+C:\Users\Bart\documents\visual studio 2010\Projects\PoyoBot\PoyoBot\obj\x86\Debug\PoyoBot.pdb
+C:\Users\Bart\documents\visual studio 2010\Projects\PoyoBot\PoyoBot\bin\Debug\PoyoBot.exe
+C:\Users\Bart\documents\visual studio 2010\Projects\PoyoBot\PoyoBot\bin\Debug\PoyoBot.pdb
+C:\Users\Bart\documents\visual studio 2010\Projects\PoyoBot\PoyoBot\obj\x86\Debug\PoyoBot.csprojResolveAssemblyReference.cache
+C:\Users\Bart\documents\visual studio 2010\Projects\PoyoBot\PoyoBot\bin\Debug\PoyoBot.exe.config
+C:\Users\Bart\Dropbox\C# project\PoyoBot\PoyoBot\bin\Debug\PoyoBot.exe.config
+C:\Users\Bart\Dropbox\C# project\PoyoBot\PoyoBot\obj\x86\Debug\PoyoBot.exe
+C:\Users\Bart\Dropbox\C# project\PoyoBot\PoyoBot\obj\x86\Debug\PoyoBot.pdb
+C:\Users\Bart\Dropbox\C# project\PoyoBot\PoyoBot\bin\Debug\PoyoBot.exe
+C:\Users\Bart\Dropbox\C# project\PoyoBot\PoyoBot\bin\Debug\PoyoBot.pdb
+C:\Users\Bart\Dropbox\C# project\PoyoBot\PoyoBot\obj\x86\Debug\PoyoBot.csprojResolveAssemblyReference.cache
