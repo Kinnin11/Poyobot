@@ -55,7 +55,7 @@ namespace PoyoBot
                 ns = IRCConnection.GetStream();
                 sr = new StreamReader(ns);
                 sw = new StreamWriter(ns);
-                sendData("PASS", "oauth:fqvokjqzezh8nl9b03334tf13gp6lm");
+                sendData("PASS", "<oauth>");
                 sendData("USER", config.nick);
                 sendData("NICK", config.nick);
                 sendData("CAP REQ", " :twitch.tv/membership");                
